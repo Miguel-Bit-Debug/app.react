@@ -6,7 +6,7 @@ export function Navbar() {
         <>
             <ul className="menu">
                 <a href="/">Home</a>
-                <a href="/adicionar produto">Adicionar Produto</a>
+                <a href="/adicionar-produto">Adicionar Produto</a>
                 <a href="/contato">Contato</a>
             </ul>
         </>
